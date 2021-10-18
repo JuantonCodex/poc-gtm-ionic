@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512905155732",
+    "project_id": "poc-ionic-app-b1162",
+    "storage_bucket": "poc-ionic-app-b1162.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512905155732:android:c677415052f17f628c9081",
+        "android_client_info": {
+          "package_name": "io.ionic.photogallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512905155732-5b2e8oj4fm0d59nbndhdn3ipiikgiore.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAicsxW7DWuFykeprrZd9Vw5k55JTQUAvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512905155732-5b2e8oj4fm0d59nbndhdn3ipiikgiore.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
